@@ -1,1 +1,1 @@
-# Project to improve skills with reducers
+# Project to improve skills with react reducers
